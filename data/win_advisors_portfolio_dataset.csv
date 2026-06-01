@@ -1,0 +1,11 @@
+Client_ID,Client_Name,Investment_Type,Portfolio_Value_INR,Monthly_Return_Pct,Risk_Score,Sector,Region,ROI_Pct,Financial_Goal
+C101,Rahul Sharma,Equity,250000,4.5,8,Technology,India,18,Wealth Creation
+C102,Priya Mehta,Mutual Funds,180000,3.2,5,Healthcare,India,12,Retirement
+C103,Amit Verma,Bonds,300000,2.1,3,Banking,India,9,Capital Preservation
+C104,Neha Kapoor,Equity,450000,5.8,9,Energy,India,22,Aggressive Growth
+C105,Arjun Singh,Real Estate,600000,4.1,6,Infrastructure,India,15,Long Term Growth
+C106,Simran Kaur,Mutual Funds,220000,3.7,4,FMCG,India,11,Retirement
+C107,Rohan Das,Equity,510000,6.2,9,Technology,India,25,Wealth Creation
+C108,Ananya Roy,Bonds,170000,2.4,2,Banking,India,8,Capital Preservation
+C109,Vikram Joshi,Equity,390000,5.1,7,Healthcare,India,19,Aggressive Growth
+C110,Sneha Iyer,Real Estate,720000,4.9,6,Infrastructure,India,17,Long Term Growth
